@@ -1,0 +1,14 @@
+################################################################################
+    TODO
+################################################################################
+
+Smoothing
+Fix https
+Disconnect lines
+Frequency labels for Spectrum
+Automatic context creation
+Pitch detection algos
+BPM mode
+Extend options
+Mobile friendly/offline
+Midi player
